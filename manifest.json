@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "AESkuCopier",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "description": "Adds a button for copy item sku on AliExpress",
 
   "icons": {
